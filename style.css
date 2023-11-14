@@ -1,0 +1,19 @@
+body a {
+  font-size: 18px;
+}
+
+body form {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  padding-left: 10vw;
+}
+body textarea {
+  height: 100px;
+}
+body button {
+  width: 70px;
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+}
